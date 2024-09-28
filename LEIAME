@@ -1,2 +1,4 @@
 Nome: Ricardo Prado Faria
-Limitações do programa: 
+GRR: 20235161
+
+Limitações do programa: O programa precisa receber uma entrada valida (não contendo strings ou outros caracteres adversos). A partir da tolerância de 1e-16, o programa passa a dar as mesmas respostas, não importa o quanto a tolerância seja reduzida, mostrando valores errados. Além disso, com tolêrancias muito grandes, o programa devolve valores com grande erro (pi valendo 2.6, por exemplo). 
